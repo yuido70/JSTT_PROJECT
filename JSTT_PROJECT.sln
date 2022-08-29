@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerInternal", "Bla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreBusiness", "CoreBusiness\CoreBusiness.csproj", "{79190AA2-D7EA-4293-BCE5-02D0619E37EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{59A5BECA-DEBF-40B2-8677-009899590841}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{79190AA2-D7EA-4293-BCE5-02D0619E37EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79190AA2-D7EA-4293-BCE5-02D0619E37EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79190AA2-D7EA-4293-BCE5-02D0619E37EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A5BECA-DEBF-40B2-8677-009899590841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A5BECA-DEBF-40B2-8677-009899590841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A5BECA-DEBF-40B2-8677-009899590841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A5BECA-DEBF-40B2-8677-009899590841}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
